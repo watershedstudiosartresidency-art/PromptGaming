@@ -48,7 +48,7 @@ test('doodle: picture, fill inside the lines, brushes, undo', async ($, on) => {
   expect((await lines()).slice(7, -2).map(paint).join('\n')).not.toContain('#')
 
   // blank canvas, big rainbow brush with mirror, fast drag
-  for (let i = 0; i < 7; i++) await ui.key({ key: 'n', in: 'room' })
+  for (let i = 0; i < 16; i++) await ui.key({ key: "n", in: "room" })
   await ui.key({ key: 'b', in: 'room' })
   await ui.key({ key: 'r', in: 'room' })
   await ui.key({ key: 'm', in: 'room' })

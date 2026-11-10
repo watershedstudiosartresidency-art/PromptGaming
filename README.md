@@ -14,7 +14,7 @@ A little side panel for Claude Code that gives you something to do while Claude 
 - Mirror mode for symmetrical drawings
 - Undo (20 steps) and clear
 - An "idea?" button that suggests something to draw
-- 90s pictures (smiley, cassette tape, heart, star, shades, lightning bolt, pizza) to **colour in** (paint stays inside the lines) or **trace**
+- 16 retro pictures (smiley, cassette tape, heart, star, shades, lightning bolt, pizza, floppy disk, gamepad, ice cream, rainbow, cat, alien, TV, music note, butterfly) to **colour in** (paint stays inside the lines) or **trace**
 
 Keys in Doodle (click the canvas first): `p` `b` `s` `f` brushes · `r` rainbow · `e` eraser · `m` mirror · `u` undo · `c` clear · `i` idea · `n` next picture · `t` colour or trace.
 
