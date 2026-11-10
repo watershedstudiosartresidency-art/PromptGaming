@@ -25,7 +25,7 @@ Starfall and Breathe pause whenever Claude is not working. That's the point: whe
 At the prompt of a Claude Code terminal session:
 
 ```
-/plugin install break-room --marketplace watershedstudiosartresidency-art/break-room
+/plugin install break-room --marketplace watershedstudiosartresidency-art/PromptGaming
 ```
 
 Answer `y` to add the marketplace, then press Enter to pick the scope.
@@ -33,10 +33,10 @@ Answer `y` to add the marketplace, then press Enter to pick the scope.
 From a shell:
 
 ```
-claude plugin install break-room --marketplace watershedstudiosartresidency-art/break-room
+claude plugin install break-room --marketplace watershedstudiosartresidency-art/PromptGaming
 ```
 
-In the Claude desktop app: click **+** next to the prompt box, then **Plugins**, **Add marketplace** with `watershedstudiosartresidency-art/break-room`, then **Add plugin**.
+In the Claude desktop app: click **+** next to the prompt box, then **Plugins**, **Add marketplace** with `watershedstudiosartresidency-art/PromptGaming`, then **Add plugin**.
 
 The panel opens beside the chat when a session starts. If you close it, type `/break-room` to open it again.
 
