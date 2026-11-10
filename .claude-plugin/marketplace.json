@@ -1,0 +1,5 @@
+{
+  "name": "break-room",
+  "owner": { "name": "watershedstudiosartresidency-art" },
+  "plugins": [{ "name": "break-room", "source": "./" }]
+}

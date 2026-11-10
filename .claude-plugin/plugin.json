@@ -1,0 +1,1 @@
+{ "name": "break-room", "version": "0.1.0", "description": "A side panel to pass the time while Claude works: a star-catching game, box breathing and a doodle pad. Pauses with a 'your turn' banner when Claude finishes.", "types": "./types/index.d.ts" }
